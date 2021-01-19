@@ -9,7 +9,7 @@ on: # When to run this workflow
 #        types: [started] # When repo owner stars this repo
 
     schedule:
-        - cron: "10 3 * * *" # Everyday at 20:05 UTC
+        - cron: "10 3 * * *" # Everyday at 03:10 UTC
 
 jobs:
     claim:
